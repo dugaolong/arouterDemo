@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":homework" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":homework" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/serverP/ARouterDemo/homework/src/main/res;file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
+    <output-test url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/serverP/ARouterDemo/homework">
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/source/apt/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/res/rs/debug" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/res/rs/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/source/apt/test/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/test/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/src/androidTest/shaders" isTestSource="true" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/not_namespaced_r_class_sources" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/generated/source/r" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/aapt_friendly_merged_manifests" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/annotation_processor_list" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/annotations_typedef_file" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/annotations_zip" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/check_manifest_result" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/compile_library_classes" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/compile_only_not_namespaced_r_class_jar" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/consumer_proguard_file" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/full_jar" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/incremental" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/intermediate-jars" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/javac" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/library_and_local_jars_jni" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/library_assets" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/library_java_res" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/library_manifest" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/lint_jar" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/lint_publish_jar" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/merged_jni_libs" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/merged_manifests" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/merged_shaders" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/packaged-classes" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/packaged_res" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/public_res" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/res" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/runtime_library_classes" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/shader_assets" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/symbols" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/tmp" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/intermediates/transforms" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/outputs" />
+      <excludeFolder url="file://$USER_HOME$/serverP/ARouterDemo/homework/build/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat-resources:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alibaba:arouter-annotation:1.0.6@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alibaba:arouter-api:1.5.0@aar" level="project" />
+    <orderEntry type="module" module-name="lib" />
+    <orderEntry type="module" module-name="lib" />
+    <orderEntry type="module" module-name="lib" />
+    <orderEntry type="module" module-name="lib" />
+  </component>
+</module>

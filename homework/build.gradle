@@ -1,0 +1,42 @@
+apply plugin: 'com.android.library'
+//1. 定义 config 变量
+def config = rootProject.ext
+
+android {
+    compileSdkVersion 29
+
+
+    defaultConfig {
+        minSdkVersion config.android.minSdkVersion
+        targetSdkVersion config.android.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = [AROUTER_MODULE_NAME: project.getName()]
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+
+    implementation project(":lib")
+
+    //在业务组件中，需要导入arouter的编译器依赖库
+    implementation 'com.alibaba:arouter-api:1.5.0'  //这里的版本根据github上面lastest version为准
+    annotationProcessor 'com.alibaba:arouter-compiler:1.2.2'
+
+
+}
