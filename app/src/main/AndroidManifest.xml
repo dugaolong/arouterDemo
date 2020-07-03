@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.xinke.arouterdemo">
 
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT"/>
+
     <application
         android:name=".MyApplication"
         android:allowBackup="true"
@@ -18,8 +21,13 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".TestActivity"/>
+        <activity android:name=".TestActivity"
+            />
+        <activity android:name=".BackActivity"
+            />
         <activity android:name="com.xinke.homework.HomeActivity"/>
+
+        <service android:name=".AudioService"/>
     </application>
 
 </manifest>

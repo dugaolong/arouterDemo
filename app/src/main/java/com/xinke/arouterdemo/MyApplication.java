@@ -1,16 +1,19 @@
 package com.xinke.arouterdemo;
 
 import android.app.Application;
+import android.content.Context;
 
 import com.alibaba.android.arouter.launcher.ARouter;
 
 public class MyApplication extends Application {
 
 
+    public static Context mContext;
     @Override
     public void onCreate() {
         super.onCreate();
 
+        mContext = this;
         if (BuildConfig.DEBUG) {
             //  这2个必须要在初始化之前开启。These two lines must be written before init,
             //  otherwise these configurations will be
@@ -25,5 +28,8 @@ public class MyApplication extends Application {
         ARouter.init(this);   //初始化SDK   As early as possible, it is recommended to initialize in the 
     }
 
+    public static Context getApp(){
+        return mContext;
+    }
 
 }
