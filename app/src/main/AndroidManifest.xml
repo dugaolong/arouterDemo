@@ -21,10 +21,10 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".TestActivity"
-            />
-        <activity android:name=".BackActivity"
-            />
+        <activity android:name=".animation.AnimationActivity" />
+        <activity android:name=".animation.Normal" />
+        <activity android:name=".TestActivity" />
+        <activity android:name=".BackActivity" />
         <activity android:name="com.xinke.homework.HomeActivity"/>
 
         <service android:name=".AudioService"/>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="normal"
+        android:onClick="normal"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="makeClipRevealAnimation"
+        android:onClick="makeClipRevealAnimation"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="makeCustomAnimation"
+        android:onClick="makeCustomAnimation"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="makeScaleUpAnimation"
+        android:onClick="makeScaleUpAnimation"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="makeSceneTransitionAnimation"
+        android:onClick="makeSceneTransitionAnimation"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="makeThumbnailScaleUpAnimation"
+        android:onClick="makeThumbnailScaleUpAnimation"/>
+
+</LinearLayout>

@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -6,6 +6,11 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <!--//或者在主题中加入-->
+        <item name="android:windowContentTransitions" tools:targetApi="lollipop">true</item>
+        <!--//还要加一条，不然会出现白屏哦-->
+        <item name="android:windowIsTranslucent">true</item>
+
     </style>
 
 </resources>

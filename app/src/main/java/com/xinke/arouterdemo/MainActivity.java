@@ -20,6 +20,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.alibaba.android.arouter.launcher.ARouter;
+import com.xinke.arouterdemo.animation.AnimationActivity;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -146,5 +147,9 @@ public class MainActivity extends AppCompatActivity {
             builder.setFullScreenIntent(pendingIntent, true);
             builder.setVisibility(NotificationCompat.VISIBILITY_PUBLIC);
         }
+    }
+
+    public void AnimationActivity(View view) {
+        startActivity(new Intent(this, AnimationActivity.class));
     }
 }
